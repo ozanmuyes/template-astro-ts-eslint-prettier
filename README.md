@@ -1,6 +1,6 @@
 # Astro Starter Kit: Minimal
 
-## Using the Template
+## Using the Template
 
 > [!NOTE]
 > Although provisional package manager is `pnpm` you can use any other package manager as you wish. In that case please be sure that the correct versions of dependencies were installed.
